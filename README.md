@@ -1,16 +1,14 @@
-# cartapp
+# Flutter Cart app (only 2 screens)
 
 A new Flutter project.
+#### Screenshots of App UI
 
-## Getting Started
+<p float="left">
+<img src="https://github.com/ibsatfatima/flutter-app/assets/91335628/efb9061c-8f23-49da-8e9e-51d84dc0f18e"  width=300 height=600>&emsp;&emsp;  
+<img src="https://github.com/ibsatfatima/flutter-app/assets/91335628/4ab34969-44e3-45d6-94c5-d9fdabbbd2d6"  width=300 height=600>&emsp;&emsp; 
+<img src="https://github.com/ibsatfatima/flutter-app/assets/91335628/fb73f18c-5753-45ca-8baf-22c2e6b13da7"  width=300 height=600>   
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
